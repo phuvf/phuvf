@@ -2,7 +2,7 @@
 
 ## Lead developer at OctoCue https://octocue.com
 
-## Contract software development work
+### Contract software development work
 
 - Custom vMix scripting in VB.NET
 - Custom control interfaces, including button panels, RFID tags, receipt printers and proximity sensors
@@ -31,10 +31,8 @@
 
 I'm based in Worcester, UK, but operate worldwide.
 
-```
+___
 Zinc Event Production Ltd.
-
 Registered in England & Wales, registration number 5340798
 Registered office: 48, Sansome Place, Worcester WR1 1UA
 VAT registration number 854927780
-```
