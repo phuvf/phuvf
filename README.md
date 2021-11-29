@@ -20,11 +20,21 @@
 - Live event camera and PPU control systems
 - Green Hippo and Disguise media servers
 
-### People I work with
+<!-- ### People I work with
 
-- Coming soon!
+- Coming soon! -->
 
 ### Fun stuff
 
 - https://vmixapi.com - the unofficial vMix API documentation
 - https://github.com/phuvf/wireless_artnet_led_controller - a WiFi enabled LED controller using an ESP32 controller.
+
+I'm based in Worcester, UK, but operate worldwide.
+
+```
+Zinc Event Production Ltd.
+
+Registered in England & Wales, registration number 5340798
+Registered office: 48, Sansome Place, Worcester WR1 1UA
+VAT registration number 854927780
+```
