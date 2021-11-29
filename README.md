@@ -24,4 +24,4 @@
 ### Fun stuff
 
 - https://vmixapi.com - the unofficial vMix API documentation
-- phuvf/wireless_artnet_led_controller - a WiFi enabled LED controller using an ESP32 controller.
+- https://github.com/phuvf/wireless_artnet_led_controller - a WiFi enabled LED controller using an ESP32 controller.
