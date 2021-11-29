@@ -1,10 +1,8 @@
 # Nick Roberts, Award-winning Event Engineer
 
-## Day job
+## Lead developer at OctoCue https://octocue.com
 
-- Lead developer @octocue
-
-## Live video engineering
+### Live video engineering
 
 - Official Barco Event Master Specialist (for Barco E2, Ex & S3)
 - vMix show programmer & operator
@@ -15,7 +13,7 @@
 - Green Hippo and Disguise media servers
 
 
-## Custom event software
+### Custom event software
 
 - Digital signage solutions, including BrightSign and screen.cloud programming
 - Custom control interfaces, including button panels, RFID tags, receipt printers and proximity sensors
@@ -23,6 +21,6 @@
 - Touchscreen interfaces
 - Scrolling, moderated social media walls
 
-## Side projects
+### Side projects
 
-- vmixapi.com - the unofficial vMix API documentation
+- https://vmixapi.com - the unofficial vMix API documentation
