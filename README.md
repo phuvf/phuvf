@@ -35,4 +35,4 @@ ___
 Zinc Event Production Ltd. registered in England & Wales, registration number 5340798.\
 Registered office: 48, Sansome Place, Worcester WR1 1UA. VAT registration number 854927780.
 
-[barco]: https://zinc.uk.com/images/barco.png
+[barco]: https://zinc.uk.com/images/small/barco.png
