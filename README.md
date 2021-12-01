@@ -29,7 +29,8 @@
 
 ![Audi, UK FCO, Shell, Johnson & Johnson, Alpine F1 team, FIX8Group][clients]
 
-& lots more I can't talk about because of NDAs.\
+& lots more I can't talk about because of NDAs.
+
 You can also take a look at my [portfolio] - which could use an update, when I get time.
 
 ### Fun stuff
