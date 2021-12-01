@@ -20,9 +20,9 @@
 - Live event camera and PPU control systems
 - Green Hippo and Disguise media servers
 
-<!-- ### People I work with
+### Equipment
 
-- Coming soon! -->
+![Barco][barco]
 
 ### Fun stuff
 
@@ -34,3 +34,5 @@ I'm based in Worcester, UK, but operate worldwide.
 ___
 Zinc Event Production Ltd. registered in England & Wales, registration number 5340798.\
 Registered office: 48, Sansome Place, Worcester WR1 1UA. VAT registration number 854927780.
+
+[barco]: https://zinc.uk.com/images/barco.png
