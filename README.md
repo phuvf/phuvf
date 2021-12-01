@@ -1,14 +1,15 @@
 # Nick Roberts: Award-winning event engineer
 
-## Lead developer at OctoCue https://octocue.com
+## Lead developer at OctoCue & event software development gun for hire.
 
 ### Contract software development work
 
 - Custom vMix scripting in VB.NET
-- Custom control interfaces, including button panels, RFID tags, receipt printers and proximity sensors
-- Game show button systems
 - Touchscreen interfaces
-- Scrolling, moderated social media walls
+- Game show button systems
+- Custom control interfaces, including button panels, RFID tags, receipt printers and proximity sensors
+- Social media walls
+- Flutter mobile app development
 
 ### Live video engineering
 
@@ -28,12 +29,18 @@
 
 ![Audi, UK FCO, Shell, Johnson & Johnson, Alpine F1 team, FIX8Group][clients]
 
-& lots more I can't talk about because of NDAs.
+& lots more I can't talk about because of NDAs.\
+You can also take a look at my [portfolio] - which could use an update, when I get time.
 
 ### Fun stuff
 
 - https://vmixapi.com - the unofficial vMix API documentation
 - https://github.com/phuvf/wireless_artnet_led_controller - a WiFi enabled LED controller using an ESP32 controller
+
+
+### Contact details
+
+Have a project you think I might be able to help with? Drop me an email: nick@zinc.uk.com
 
 I'm based in Worcester, UK, but operate worldwide.
 
@@ -43,3 +50,4 @@ Registered office: 48, Sansome Place, Worcester WR1 1UA. VAT registration number
 
 [equipment]: https://zinc.uk.com/images/equipment_comp.png
 [clients]: https://zinc.uk.com/images/clients_comp.png
+[portfolio]: https://zinc.uk.com/Nick_Roberts_portfolio.pdf
