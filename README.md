@@ -24,6 +24,12 @@
 
 ![Analog way, Barco, BrightSign, Christie, BlackMagic Design, Green Hippo, vMix][equipment]
 
+### Clients
+
+![Audi, UK FCO, Shell, Johnson & Johnson, Alpine F1 team, FIX8Group][clients]
+
+& lots more I can't talk about because of NDAs.
+
 ### Fun stuff
 
 - https://vmixapi.com - the unofficial vMix API documentation
@@ -36,3 +42,4 @@ Zinc Event Production Ltd. registered in England & Wales, registration number 53
 Registered office: 48, Sansome Place, Worcester WR1 1UA. VAT registration number 854927780.
 
 [equipment]: https://zinc.uk.com/images/equipment_comp.png
+[clients]: https://zinc.uk.com/images/clients_comp.png
