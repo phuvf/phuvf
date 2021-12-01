@@ -22,7 +22,7 @@
 
 ### Equipment
 
-![Barco][barco]
+![Barco][barco] ![BrightSign][brightsign]
 
 ### Fun stuff
 
@@ -36,3 +36,4 @@ Zinc Event Production Ltd. registered in England & Wales, registration number 53
 Registered office: 48, Sansome Place, Worcester WR1 1UA. VAT registration number 854927780.
 
 [barco]: https://zinc.uk.com/images/small/barco.png
+[brightsign]: https://zinc.uk.com/images/small/brightsign.png
