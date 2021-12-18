@@ -37,6 +37,7 @@ You can also take a look at my [portfolio] - which could use an update, when I g
 
 - https://vmixapi.com - the unofficial vMix API documentation
 - https://github.com/phuvf/wireless_artnet_led_controller - a WiFi enabled LED controller using an ESP32 controller
+- https://github.com/phuvf/ismyportfolioscrewed - a quick & dirty calcuator to help UK landlords with tax changes (from 2016, now obsolete)
 
 
 ### Contact details
