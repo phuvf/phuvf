@@ -22,12 +22,6 @@
 
 ## Recent projects
 
-{% note %}
-
-**Note:** Owners and administrators can add outside collaborators to a repository.
-
-{% endnote %}
-
 ### Alpine F1 garage (motorsport)
 ![Alpine F1][alpine]
 
@@ -44,7 +38,7 @@ Using the Portl (now called Proto) hologram system to allow fans to play FIFA wi
 Using OpenReach FTTP connection to send multiple video, data and audio feeds between a residential property, and airport and an airplane. 
 
 #### Coolman's Universe NFT activation
-![Coolman's Universe][recent3]
+![Coolman's Universe][coolman]
 
 NFT activation event in NYC where NFT owners could see and interact with their custom character using RFID scanning. Biggest win: custom-built space invaders!
 
@@ -86,7 +80,7 @@ Registered office: 48, Sansome Place, Worcester WR1 1UA. VAT registration number
 [alpine]: https://zinc.uk.com/images/alpine.jpg
 [virgin]: https://zinc.uk.com/images/virgin_portl.jpg
 [suburbia]: https://zinc.uk.com/images/air_suburbia.jpg
-[recent4]: https://picsum.photos/300/200
+[coolman]: https://zinc.uk.com/images/coolman.jpg
 [equipment]: https://zinc.uk.com/images/equipment_comp.png
 [clients]: https://zinc.uk.com/images/clients_comp.png
 [portfolio]: https://zinc.uk.com/Nick_Roberts_portfolio.pdf
