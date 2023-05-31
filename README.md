@@ -28,7 +28,7 @@
 Video and lighting control systems for the Alpine F1 garage, including race engineer integrations, and the most famous curfew timer in F1.
 
 #### Virgin Media Portl (TV advert)
-![Virgin Media Portl][recent1]
+![Virgin Media Portl][virgin]
 
 Using the Portl (now called Proto) hologram system to allow fans to play FIFA with their idols over the internet.
 
@@ -78,7 +78,7 @@ Zinc Event Production Ltd. registered in England & Wales, registration number 53
 Registered office: 48, Sansome Place, Worcester WR1 1UA. VAT registration number 854927780.
 
 [alpine]: https://zinc.uk.com/images/alpine.jpg
-[recent2]: https://picsum.photos/300/200
+[virgin]: https://zinc.uk.com/images/virgin_portl.jpg
 [recent3]: https://picsum.photos/300/200
 [recent4]: https://picsum.photos/300/200
 [equipment]: https://zinc.uk.com/images/equipment_comp.png
