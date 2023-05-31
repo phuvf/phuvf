@@ -32,6 +32,16 @@ Using the Portl (now called Proto) hologram system to allow fans to play FIFA wi
 
 Using OpenReach FTTP connection to send multiple video, data and audio feeds between a residential property, and airport and an airplane. 
 
+#### Coolman's Universe NFT activation
+![Coolman's Universe][recent3]
+
+NFT activation event in NYC where NFT owners could see and interact with their custom character using RFID scanning. Biggest win: custom-built space invaders!
+
+#### Nike Air Max Day
+![Coolman's Universe][recent3]
+
+NFT activation event in NYC where NFT owners could see and interact with their custom character using RFID scanning. Biggest win: custom-built space invaders!
+
 
 ### Equipment
 
@@ -63,7 +73,8 @@ Zinc Event Production Ltd. registered in England & Wales, registration number 53
 Registered office: 48, Sansome Place, Worcester WR1 1UA. VAT registration number 854927780.
 
 [recent1]: https://picsum.photos/300/200
-[recent2]: https://picsum.photos/300/200
+[recent2]: https://picsum.photos/300/200\
+[recent3]: https://picsum.photos/300/200
 [equipment]: https://zinc.uk.com/images/equipment_comp.png
 [clients]: https://zinc.uk.com/images/clients_comp.png
 [portfolio]: https://zinc.uk.com/Nick_Roberts_portfolio.pdf
