@@ -20,20 +20,20 @@
 - Media servers, including Hippo, Disguise & Millumin
 - vMix show programmer and operator
 
-### Recent projects
+## Recent projects
 
-#### Alpine F1 garage (motorsport)
+### Alpine F1 garage (motorsport)
 ![Alpine F1][alpine]
 
 Video and lighting control systems for the Alpine F1 garage, including race engineer integrations, and the most famous curfew timer in F1.
 
-#### Virgin Media Portl (TV advert)
+### Virgin Media Portl (TV advert)
 ![Virgin Media Portl][virgin]
 
 Using the Portl (now called Proto) hologram system to allow fans to play FIFA with their idols over the internet.
 
-#### Air Suburbia (EE TV advert)
-![EE land a plane remotely][recent2]
+### Air Suburbia (EE TV advert)
+![EE land a plane remotely][suburbia]
 
 Using OpenReach FTTP connection to send multiple video, data and audio feeds between a residential property, and airport and an airplane. 
 
@@ -79,7 +79,7 @@ Registered office: 48, Sansome Place, Worcester WR1 1UA. VAT registration number
 
 [alpine]: https://zinc.uk.com/images/alpine.jpg
 [virgin]: https://zinc.uk.com/images/virgin_portl.jpg
-[recent3]: https://picsum.photos/300/200
+[suburbia]: https://zinc.uk.com/images/air_suburbia.jpg
 [recent4]: https://picsum.photos/300/200
 [equipment]: https://zinc.uk.com/images/equipment_comp.png
 [clients]: https://zinc.uk.com/images/clients_comp.png
