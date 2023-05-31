@@ -39,7 +39,7 @@ Using the Portl (now called Proto) hologram system to allow fans to play FIFA wi
 ### Air Suburbia (EE TV advert)
 ![EE land a plane remotely][suburbia]
 
-Using an OpenReach FTTP connection to send multiple video, data and audio feeds between an airplane, and airport and a house in Harrow. 
+Using an OpenReach FTTP connection to send multiple video, data and audio feeds between an airplane, an airport and a house in Harrow. 
 
 ### Coolman's Universe NFT activation
 ![Coolman's Universe][coolman]
