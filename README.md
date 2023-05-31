@@ -24,10 +24,12 @@
 
 #### Virgin Media Portl (TV advert)
 ![Virgin Media Portl][recent1]
+
 Using the Portl (now called Proto) hologram system to allow fans to play FIFA with their idols over the internet.
 
 #### EE remote plane landing (TV advert)
 ![EE land a plane remotely][recent2]
+
 Using OpenReach FTTP connection to send multiple video, data and audio feeds between a residential property, and airport and an airplane. 
 
 
