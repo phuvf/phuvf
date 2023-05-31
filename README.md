@@ -23,7 +23,8 @@
 ## Recent projects
 
 About half my work in live video engineering for conferences, concerts and exhibitions, and the rest is custom-built hardware and software solutions.
-If you're reading this you'll probably already know what's involved in conference work, so here's some examples of the custom-built stuff:
+
+If you're reading this you'll probably already know what's involved in conference work, so I'll skip that bit. Here's some examples of the custom-built stuff:
 
 ### Alpine F1 garage (motorsport)
 ![Alpine F1][alpine]
