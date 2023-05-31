@@ -22,7 +22,10 @@
 
 ### Recent projects
 
+#### Virgin Media Portl
 ![Portl][recent1]
+
+Using the Portl (now called Proto) hologram system to allow fans to play FIFA with their idols over the internet.
 
 ### Equipment
 
