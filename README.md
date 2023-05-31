@@ -20,6 +20,10 @@
 - Media servers, including Hippo, Disguise & Millumin
 - vMix show programmer and operator
 
+### Recent projects
+
+![Portl][recent1]
+
 ### Equipment
 
 ![Analog way, Barco, BrightSign, Christie, BlackMagic Design, Green Hippo, vMix][equipment]
@@ -49,6 +53,7 @@ ___
 Zinc Event Production Ltd. registered in England & Wales, registration number 5340798.\
 Registered office: 48, Sansome Place, Worcester WR1 1UA. VAT registration number 854927780.
 
+[recent1]: https://picsum.photos/200/300
 [equipment]: https://zinc.uk.com/images/equipment_comp.png
 [clients]: https://zinc.uk.com/images/clients_comp.png
 [portfolio]: https://zinc.uk.com/Nick_Roberts_portfolio.pdf
