@@ -54,6 +54,8 @@ The latest in a series of brand activations for Nike Dubai. Users can build a cu
 
 ## Equipment
 
+This list changes a lot and I'm not very good at keeping the logos up-to-date.
+
 ![Analog way, Barco, BrightSign, Christie, BlackMagic Design, Green Hippo, vMix][equipment]
 
 ## Fun (open source) stuff I've done
