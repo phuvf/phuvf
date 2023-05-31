@@ -39,12 +39,12 @@ Using the Portl (now called Proto) hologram system to allow fans to play FIFA wi
 ### Air Suburbia (EE TV advert)
 ![EE land a plane remotely][suburbia]
 
-Using OpenReach FTTP connection to send multiple video, data and audio feeds between a residential property, and airport and an airplane. 
+Using an OpenReach FTTP connection to send multiple video, data and audio feeds between an airplane, and airport and a house in Harrow. 
 
 ### Coolman's Universe NFT activation
 ![Coolman's Universe][coolman]
 
-NFT activation event in NYC where NFT owners could see and interact with their custom character using RFID scanning. Biggest win: custom-built space invaders!
+Crypto activation event in NYC where NFT owners could see and interact with their custom character using RFID scanning. Biggest win: custom-built space invaders!
 
 ### Nike Air Max Day
 ![Nike AMD][nike-amd]
