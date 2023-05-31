@@ -26,26 +26,34 @@ About half my work in live video engineering for conferences, concerts and exhib
 
 If you're reading this you'll probably already know what's involved in conference work, so I'll skip that bit. Here's some examples of the custom-built stuff:
 
+---
 ### Alpine F1 garage (motorsport)
 ![Alpine F1][alpine]
 
 Video and lighting control systems for the Alpine F1 garage, including race engineer integrations, and the most famous curfew timer in F1.
 
+---
 
 ### Virgin Media Portl (TV advert)
 ![Virgin Media Portl][virgin]
 
 Using the Portl (now called Proto) hologram system to allow fans to play FIFA with their idols over the internet.
 
+---
+
 ### Air Suburbia (EE TV advert)
 ![EE land a plane remotely][suburbia]
 
-Using an OpenReach FTTP connection to send multiple video, data and audio feeds between an airplane, an airport and a house in Harrow. 
+Using an OpenReach FTTP connection to send multiple video, data and audio feeds between an airplane, an airport and a house in Harrow.
+
+---
 
 ### Coolman's Universe NFT activation
 ![Coolman's Universe][coolman]
 
 Crypto activation event in NYC where NFT owners could see and interact with their custom character using RFID scanning. Biggest win: custom-built space invaders!
+
+---
 
 ### Nike Air Max Day
 ![Nike AMD][nike-amd]
