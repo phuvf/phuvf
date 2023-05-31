@@ -38,9 +38,9 @@ Using OpenReach FTTP connection to send multiple video, data and audio feeds bet
 NFT activation event in NYC where NFT owners could see and interact with their custom character using RFID scanning. Biggest win: custom-built space invaders!
 
 #### Nike Air Max Day
-![Coolman's Universe][recent4]
+![Nike AMD][recent4]
 
-NFT activation event in NYC where NFT owners could see and interact with their custom character using RFID scanning. Biggest win: custom-built space invaders!
+The latest in a series of brand activations for Nike Dubai. Users can build a custom audio track with associated real-time visuals, then publish and share it via QR code and a custom microsite service.
 
 
 ### Equipment
