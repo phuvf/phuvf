@@ -22,6 +22,9 @@
 
 ## Recent projects
 
+About half my work in live video engineering for conferences, concerts and exhibitions, and the rest is custom-built hardware and software solutions.
+If you're reading this you'll probably already know what's involved in conference work, so here's some examples of the custom-built stuff:
+
 ### Alpine F1 garage (motorsport)
 ![Alpine F1][alpine]
 
@@ -51,14 +54,6 @@ The latest in a series of brand activations for Nike Dubai. Users can build a cu
 ### Equipment
 
 ![Analog way, Barco, BrightSign, Christie, BlackMagic Design, Green Hippo, vMix][equipment]
-
-### Clients
-
-![Audi, UK FCO, Shell, Johnson & Johnson, Alpine F1 team, FIX8Group][clients]
-
-& lots more I can't talk about because of NDAs.
-
-You can also take a look at my [portfolio] - which could use an update, when I get time.
 
 ### Fun stuff I've done
 
