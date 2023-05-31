@@ -41,29 +41,29 @@ Using the Portl (now called Proto) hologram system to allow fans to play FIFA wi
 
 Using OpenReach FTTP connection to send multiple video, data and audio feeds between a residential property, and airport and an airplane. 
 
-#### Coolman's Universe NFT activation
+### Coolman's Universe NFT activation
 ![Coolman's Universe][coolman]
 
 NFT activation event in NYC where NFT owners could see and interact with their custom character using RFID scanning. Biggest win: custom-built space invaders!
 
-#### Nike Air Max Day
+### Nike Air Max Day
 ![Nike AMD][nike-amd]
 
 The latest in a series of brand activations for Nike Dubai. Users can build a custom audio track with associated real-time visuals, then publish and share it via QR code and a custom microsite service.
 
 
-### Equipment
+## Equipment
 
 ![Analog way, Barco, BrightSign, Christie, BlackMagic Design, Green Hippo, vMix][equipment]
 
-### Fun (open source) stuff I've done
+## Fun (open source) stuff I've done
 
 - https://vmixapi.com - the unofficial vMix API documentation
 - https://github.com/phuvf/wireless_artnet_led_controller - a WiFi enabled LED controller using an ESP32 controller.
 - https://github.com/phuvf/ismyportfolioscrewed - a quick & dirty calcuator to help UK landlords with tax changes (from 2016, now obsolete)
 
 
-### Contact details
+## Contact details
 
 Have a project you think I might be able to help with? Drop me an email: nick@zinc.uk.com
 
