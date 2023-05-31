@@ -1,6 +1,6 @@
 # Nick Roberts: Award-winning event engineer
 
-## Lead developer at OctoCue & event software development gun for hire.
+## Lead developer at OctoCue & event software/hardware development gun for hire.
 
 ### Contract software development work
 
