@@ -22,6 +22,12 @@
 
 ## Recent projects
 
+{% note %}
+
+**Note:** Owners and administrators can add outside collaborators to a repository.
+
+{% endnote %}
+
 ### Alpine F1 garage (motorsport)
 ![Alpine F1][alpine]
 
