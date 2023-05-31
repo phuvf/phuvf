@@ -55,7 +55,7 @@ The latest in a series of brand activations for Nike Dubai. Users can build a cu
 
 ![Analog way, Barco, BrightSign, Christie, BlackMagic Design, Green Hippo, vMix][equipment]
 
-### Fun stuff I've done
+### Fun (open source) stuff I've done
 
 - https://vmixapi.com - the unofficial vMix API documentation
 - https://github.com/phuvf/wireless_artnet_led_controller - a WiFi enabled LED controller using an ESP32 controller.
