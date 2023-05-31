@@ -4,9 +4,8 @@
 
 ### Contract software development work
 
-- Interactive exhibits
 - Touchscreen interfaces
-- Game show button systems
+- Game show engines and button systems
 - Interactive exhibits, including button panels, RFID tags, card printers and proximity sensors
 - Social media walls
 - Flutter mobile app development
