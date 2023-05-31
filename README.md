@@ -43,7 +43,7 @@ Using OpenReach FTTP connection to send multiple video, data and audio feeds bet
 NFT activation event in NYC where NFT owners could see and interact with their custom character using RFID scanning. Biggest win: custom-built space invaders!
 
 #### Nike Air Max Day
-![Nike AMD][recent4]
+![Nike AMD][nike-amd]
 
 The latest in a series of brand activations for Nike Dubai. Users can build a custom audio track with associated real-time visuals, then publish and share it via QR code and a custom microsite service.
 
@@ -81,6 +81,7 @@ Registered office: 48, Sansome Place, Worcester WR1 1UA. VAT registration number
 [virgin]: https://zinc.uk.com/images/virgin_portl.jpg
 [suburbia]: https://zinc.uk.com/images/air_suburbia.jpg
 [coolman]: https://zinc.uk.com/images/coolman.jpg
+[nike-amd]: https://zinc.uk.com/images/nike-amd.jpg
 [equipment]: https://zinc.uk.com/images/equipment_comp.png
 [clients]: https://zinc.uk.com/images/clients_comp.png
 [portfolio]: https://zinc.uk.com/Nick_Roberts_portfolio.pdf
