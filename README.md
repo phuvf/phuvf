@@ -4,22 +4,22 @@
 
 ### Contract software development work
 
-- Custom vMix scripting in VB.NET
+- Interactive exhibits
 - Touchscreen interfaces
 - Game show button systems
-- Custom control interfaces, including button panels, RFID tags, receipt printers and proximity sensors
+- Interactive exhibits, including button panels, RFID tags, card printers and proximity sensors
 - Social media walls
 - Flutter mobile app development
 
 ### Live video engineering
 
 - Official Barco Event Master Specialist (for Barco E2, Ex & S3)
-- vMix show programmer & operator
 - Show system integration and operation
-- Large-scale LED wall control systems
+- Large-scale LED wall control systems, including Brompton processing
 - Mapped and blended projector control
 - Live event camera and PPU control systems
-- Green Hippo and Disguise media servers
+- Media servers, including Hippo, Disguise & Millumin
+- vMix show programmer and operator
 
 ### Equipment
 
@@ -33,10 +33,10 @@
 
 You can also take a look at my [portfolio] - which could use an update, when I get time.
 
-### Fun stuff
+### Fun stuff I've done
 
 - https://vmixapi.com - the unofficial vMix API documentation
-- https://github.com/phuvf/wireless_artnet_led_controller - a WiFi enabled LED controller using an ESP32 controller
+- https://github.com/phuvf/wireless_artnet_led_controller - a WiFi enabled LED controller using an ESP32 controller.
 - https://github.com/phuvf/ismyportfolioscrewed - a quick & dirty calcuator to help UK landlords with tax changes (from 2016, now obsolete)
 
 
