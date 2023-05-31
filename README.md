@@ -22,10 +22,14 @@
 
 ### Recent projects
 
-#### Virgin Media Portl
-![Portl][recent1]
-
+#### Virgin Media Portl (TV advert)
+![Virgin Media Portl][recent1]
 Using the Portl (now called Proto) hologram system to allow fans to play FIFA with their idols over the internet.
+
+#### EE remote plane landing (TV advert)
+![EE land a plane remotely][recent2]
+Using OpenReach FTTP connection to send multiple video, data and audio feeds between a residential property, and airport and an airplane. 
+
 
 ### Equipment
 
@@ -57,6 +61,7 @@ Zinc Event Production Ltd. registered in England & Wales, registration number 53
 Registered office: 48, Sansome Place, Worcester WR1 1UA. VAT registration number 854927780.
 
 [recent1]: https://picsum.photos/300/200
+[recent2]: https://picsum.photos/300/200
 [equipment]: https://zinc.uk.com/images/equipment_comp.png
 [clients]: https://zinc.uk.com/images/clients_comp.png
 [portfolio]: https://zinc.uk.com/Nick_Roberts_portfolio.pdf
