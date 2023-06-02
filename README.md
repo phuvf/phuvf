@@ -20,6 +20,12 @@
 - Media servers, including Hippo, Disguise & Millumin
 - vMix show programmer and operator
 
+## Show reel
+
+A small sample of my work - check out my Instagram feed for the most recent events: @nickrobertsgb
+
+![Collage][collage]
+
 ## Recent projects
 
 About half my work in live video engineering for conferences, concerts and exhibitions, and the rest is custom-built hardware and software solutions.
@@ -84,6 +90,7 @@ ___
 Zinc Event Production Ltd. registered in England & Wales, registration number 5340798.\
 Registered office: 48, Sansome Place, Worcester WR1 1UA. VAT registration number 854927780.
 
+[collage]: https://zinc.uk.com/images/collage.jpg
 [alpine]: https://zinc.uk.com/images/alpine.jpg
 [virgin]: https://zinc.uk.com/images/virgin_portl.jpg
 [suburbia]: https://zinc.uk.com/images/air_suburbia.jpg
