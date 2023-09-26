@@ -13,11 +13,11 @@
 ### Live video engineering
 
 - Official Barco Event Master Specialist (for Barco E2, Ex & S3)
+- Disguise media servers
 - Show system integration and operation
 - Large-scale LED wall control systems, including Brompton processing
 - Mapped and blended projector control
 - Live event camera and PPU control systems
-- Media servers, including Hippo, Disguise & Millumin
 - vMix show programmer and operator
 
 ## Show reel
