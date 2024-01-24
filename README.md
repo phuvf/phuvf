@@ -28,7 +28,7 @@ A small sample of my work - check out my Instagram feed for the most recent even
 
 ## Recent projects
 
-About half my work in live video engineering for conferences, concerts and exhibitions, and the rest is custom-built hardware and software solutions.
+About half my work is live video engineering for conferences, concerts and exhibitions, and the rest is custom-built hardware and software solutions.
 
 If you're reading this you'll probably already know what's involved in conference work, so I'll skip that bit. Here's some examples of the custom-built stuff:
 
