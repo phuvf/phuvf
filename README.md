@@ -75,7 +75,7 @@ The latest in a series of brand activations for Nike Dubai. Users can build a cu
 
 ## Fun (open source) stuff I've done
 
-- [OSC point](https://github.com/phuvf/oscpoint) - an OSC API for Microsoft PowerPoint, with associated Bitfocus Companion module
+- [OSCPoint](https://github.com/phuvf/oscpoint) - an OSC API for Microsoft PowerPoint, with associated Bitfocus Companion module
 - https://vmixapi.com - the unofficial vMix API documentation
 - https://github.com/phuvf/wireless_artnet_led_controller - a WiFi enabled LED controller using an ESP32 controller.
 - https://github.com/phuvf/ismyportfolioscrewed - a quick & dirty calcuator to help UK landlords with tax changes (from 2016, now obsolete)
