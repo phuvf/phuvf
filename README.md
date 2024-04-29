@@ -73,7 +73,7 @@ The latest in a series of brand activations for Nike Dubai. Users can build a cu
 
 ![Analog way, Barco, BrightSign, Christie, BlackMagic Design, Green Hippo, vMix][equipment]
 
-## Fun (open source) stuff I've done
+## Fun (free and/or open source) stuff I've done
 
 - [OSCPoint](https:///oscpoint.com) - an OSC API for Microsoft PowerPoint, with associated Bitfocus Companion module
 - https://vmixapi.com - the unofficial vMix API documentation
