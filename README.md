@@ -12,7 +12,7 @@
 
 ### Live video engineering
 
-- Official Barco Event Master Specialist (for Barco E2, Ex & S3)
+- Official Barco Event Master Specialist (for Barco Encore3 and E2)
 - Disguise media servers
 - Show system integration and operation
 - Large-scale LED wall control systems, including Brompton processing
