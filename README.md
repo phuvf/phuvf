@@ -4,8 +4,9 @@
 
 ### Contract software development work
 
-- Touchscreen interfaces
-- Game show engines and button systems
+- [OSCPoint](https://oscpoint.com): A free add-in for PowerPoint that adds OSC control to PowerPoint presentations.
+- [OctoCue](https://octocue.com): Professional, seamless remote slide control.
+- Touchscreen interfaces, game show engines and button systems
 - Interactive exhibits, including button panels, RFID tags, card printers and proximity sensors
 - Social media walls
 - Flutter mobile app development
