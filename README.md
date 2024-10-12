@@ -84,7 +84,7 @@ The latest in a series of brand activations for Nike Dubai. Users can build a cu
 
 ## Contact details
 
-Have a project you think I might be able to help with? Drop me an email: nick@zinc.uk.com
+Have a project you think I might be able to help with? Drop me an email: nick@zinc.uk
 
 I'm based in Worcester, UK, but operate worldwide.
 
