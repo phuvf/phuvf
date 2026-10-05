@@ -90,7 +90,7 @@ I'm based in Worcester, UK, but operate worldwide.
 
 ___
 Zinc Event Production Ltd. registered in England & Wales, registration number 5340798.\
-Registered office: 48, Sansome Place, Worcester WR1 1UA. VAT registration number 854927780.
+Registered office: 6a Sabrina Terrace, Worcester WR1 3JD. VAT registration number 854927780.
 
 [collage]: https://zinc.uk.com/images/collage.jpg
 [alpine]: https://zinc.uk.com/images/alpine.jpg
